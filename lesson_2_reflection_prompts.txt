@@ -13,6 +13,6 @@ How do the diagrams help you visualize the branch structure?
     直观可视，易于理解及记忆
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
+    两条支线交汇，提交修改的部分
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
