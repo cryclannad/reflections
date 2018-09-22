@@ -16,3 +16,4 @@ the diagram the way we do?
     两条支线交汇，提交修改的部分
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+    自动方便、手动灵活
