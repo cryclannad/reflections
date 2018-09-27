@@ -1,4 +1,0 @@
-When would you want to use a remote repository rather than keeping all your work
-local?
-    希望有个在线而非离线版本的时候
-    Fill in your answer here
